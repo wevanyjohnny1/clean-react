@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "johnnywevany",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^28.1.6",
     "@types/node": "^18.0.6",
